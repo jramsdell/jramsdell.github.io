@@ -14,7 +14,8 @@ The American River Conservancy works to conserve the wildlife and their aquatic 
 Water quality standards (WQS) are risk-based requirements which set site-specific allowable pollutant levels for individual water bodies, such as rivers, lakes, streams and wetlands.  States set WQS by designating uses for the water body (e.g., recreation, water supply, aquatic life, agriculture) and applying water quality criteria (numeric pollutant concentrations and narrative requirements) to protect the designated uses. An antidegradation policy is also issued by each state to maintain and protect existing uses and high quality waters.
 
 In 2011, mantas became strictly protected in international waters because of their inclusion in the Convention on Migratory Species of Wild Animals. The CMS is an international treaty organization concerned with conserving migratory species and habitats on a global scale. Although individual nations were already protecting manta rays, the fish often migrate through unregulated waters, putting them at increased risk from overfishing. The IUCN declared M. birostris to be 'Vulnerable with an elevated risk of extinction' in November 2011.
-<br>
+
+
 Controlling Water Pollution
 -------
 
@@ -29,7 +30,8 @@ In areas adjacent to water bodies with fish or shellfish intended for human cons
 In 1948 in the USA, a Water Pollution Control Act (WPA) was passed by the federal government. This act gave rights to the surgeon general of the public health service to make programs to decrease the amount of pollution in the world's waters. The main concern was to save water, protect fish, and have clean water for agricultural usage. The WPA also helped to start the process of building water treatment plants. This is to guard against sewage from polluting drinking water. In 1972 the WPA was amended to include more requirements in order to insure that the water is chemically sound. This amendment also furthered regulations to insure the quality of the water was up to par. In 1987 the WPA was amended again to put an even more strict control on water supply pollution. With this new amendment water sources had to fit a specific set of criteria to fight against pollution.
 
 The Oregon State Sanitary Authority (OSSA) was the first agency in the U.S. state of Oregon that was charged with protecting the environment. In 1938, Oregon voters, by a three-to-one margin, approved an initiative to regulate water pollution and to create an enforcement agency under the jurisdiction of the Oregon State Board of Health. Political pressure that led to the initiative had begun as early as the 1920s, when the Board of Health, the U.S. Public Health Service, the Izaak Walton League, and others had expressed concerns about water pollution and its threats to human health. Pollution had caused many fish kills on the Willamette River in the 1920s, and Portland, on the lower river, had often closed its part of the Willamette to swimming because of sewage in the water.
-<br>
+
+
 Rationing Water
 -------
 
@@ -44,7 +46,8 @@ The food and water supply was managed closely by the military authorities.  Rati
 Ben-Matityahu had Yodfat's limited supply of water rationed before the siege began. The Romans had heard of this and began to use their artillery to target efforts to draw water, hoping to exacerbate an already difficult situation and bring a swift end to the siege. The Jews confounded these expectations by wringing out their clothes over the battlements until the walls were running with water, leading the Romans to believe they had some hidden supply of water. According to Josephus, this had the double effect of strengthening Roman resolve to take the city by force and the defenders' resolve to fight, hoping to die by the sword rather than thirst or starvation.
 
 Where a junction was built, either because the older canal company saw an advantage in a connection, or where the new company managed to insert a mandatory connection into its Act of Parliament, then the old company would seek to protect (and even enhance) its water supply. Normally, they would specify that, at the junction, the newer canal must be at a higher level than their existing canal. Even though the drop from the newer to the older canal might only be a few inches, the difference in levels still required a lock — called a stop lock, because it was to stop water flowing continuously between the newer canal and the older, lower one. The lock would be under the control of the new company, and the gates would, of course, "point" uphill - towards the newer canal. This would protect the water supply of the newer canal, but would nevertheless "donate" a lockful of water to the older company every time a boat went through. In times of excess water, of course, the lock "bywash" would continuously supply water to the lower canal.
-<br>
+
+
 Reducing Water Pollution
 -------
 
@@ -59,7 +62,8 @@ The economy is highly regulated by the government, which has increased subsidies
 Stormwater Reduction: Stormwater is a type of runoff that collects on paved areas following precipitation. Runoff increases erosion, which results in more sediment flowing to Grand Traverse Bay. Excessive sediment from erosion, along with nutrients such as phosphorus from fertilizers, are the top two water quality threats to Grand Traverse Bay. Effectively managing stormwater reduces sediment and phosphorus from reaching the Bay. It also keeps Grand Traverse Bay oligotrophic, meaning cold. Stormwater that runs over paved areas and land becomes warmer. Effective stormwater management reduces such thermal pollution, which is important for cold water species such as Lake Trout. The group works very closely with the City of Traverse City, numerous townships, and scores of project partners and volunteers from myriad organizations and businesses throughout the Grand Traverse region to protect Grand Traverse Bay from stormwater pollution. 
 
 Section 404 of the CWA requires that a permit be obtained from the U.S. Army Corp of Engineers for the "discharge of dredged and fill material into the navigable waters at specified disposal sites." The 404 permit process is frequently used to protect wetlands, which are essential to the control of nonpoint pollution because they slow the rate of surface water runoff and remove sediment and other pollutants before they reach lakes and streams.  While these permitting procedures may result in decreased NPS water pollution to wetlands, developers may simply relocate to an alternative location and still cause the release of NPS water pollution.
-<br>
+
+
 Saving Water at Home
 -------
 
@@ -74,7 +78,8 @@ Where a junction was built, either because the older canal company saw an advant
 Initiating the flow of water towards the power station are two  tall intake towers behind the dam in the reservoir. Each tower provides water to a respective stage of the power plant via tunnels. The two tunnels are each about  long and to protect against water hammer, each tunnel is equipped with a surge tank. The underground power house is  below the surface,  long,  wide and  high. Adjacent to the power house is another cavern that holds the transformers and is of similar dimensions. Once the water reaches the power house, each tunnel supplies the four  Pelton turbines of its respective stage. Once the water leaves the turbines, each stage releases it into their own  long tailrace tunnel where the water is discharged into the Samaná Norte River. The tunnels have a combined maximum discharge of .
 
 Brac Systems, Inc was a company that specialized in the development of water saving products for both residential and commercial use. Brac's greywater and rainwater assets were purchased by Greyter Water Systems in 2012. Greyter has advanced Brac's commercial buildings technology which has been sold to customers such as the US and Canadian military, Ontario Ministry of Education and many others who are saving water and money through the use of Greyter's smart water solutions. Greyter has also created its highly desired residential system called the Greyter HOME which it expects to launch in 2014. Brac Systems Inc. was founded Montreal, Quebec, in February 2005 and began with the development of the GRS greywater recycling systems. Now Brac Systems manufactures and markets greywater, rainwater and blackwater recycling systems. Brac's residential greywater recycling systems ( RGW Systems )capture greywater from the showers, bathtubs, lavatories and laundry washing machines in your home and to be redistributed to the toilets or used for irrigation. Based upon statistics from Environment Canada, the company asserts that the use of their system will cut the average home's water consumption and sewage effluent by approximately one third.
-<br>
+
+
 Saving Water in Irrigation
 -------
 
@@ -89,7 +94,8 @@ Deficit irrigation (DI) is a watering strategy that can be applied by different 
 Demand-side management, including the reduction of leakage in the distribution network and water conservation, are other options that are being considered and, in some cases, also applied to address water scarcity. For example, Seattle has reduced per capita water use from  per day in 1990 to  per day in 2007 through a comprehensive water conservation program including pricing policies, education, regulations and rebates for water-saving appliances. Other cities such as Atlanta and Las Vegas have also launched water conservation programs that are somewhat less comprehensive than the one in Seattle concerning indoor water use. However, Las Vegas has intentionally focused on curbing outdoor water demand, which accounts for 70% of residential water use in the city, through reductions in turf area and incentives for the use of rains sensors, irrigation controllers and pool covers. At the federal level, the Energy Policy Act of 1992 set standards for water-efficient appliances, replacing the  per flush (gpf) toilet with a new 1.6 gpf/6 litres per flush maximum standard for all new toilets.By 1994, federal law mandated that showerheads and faucets sold in the U.S. release no more than 2.5 and  of water per minute respectively. Also in 1994 the AWWA established a clearinghouse for water conservation, efficiency, and demand management, called WaterWiser, to assist water conservation professionals and the general public in using water more efficiently. In 2006 the U.S. Environmental Protection Agency launched the WaterSense program to encourage water efficiency beyond the standards set by the Energy Policy Act through the use of a special label on consumer products.
 
 Greywater (also spelled graywater, or grey water/gray water) or sullage is all wastewater generated in households or office buildings from streams without fecal contamination, i.e. all streams except for the wastewater from toilets. Sources of greywater include, e.g. sinks, showers, baths, clothes washing machines or dish washers. As greywater contains fewer pathogens than domestic wastewater, it is generally safer to handle and easier to treat and reuse onsite for toilet flushing, landscape or crop irrigation, and other non-potable uses. However, the use of non-toxic and low-sodium soap and personal care products is recommended to protect vegetation when reusing greywater for irrigation purposes. The application of greywater reuse in urban water systems provides substantial benefits for both the water supply subsystem by reducing the demand for fresh clean water as well as the wastewater subsystems by reducing the amount of wastewater required to be conveyed and treated. 
-<br>
+
+
 Water Treatment
 -------
 
@@ -104,7 +110,8 @@ The Urban Waste Water Treatment Directive (full title Council Directive 91/271/E
 The  Cantareira State Park, created in 1962, protects a large part of the metropolitan São Paulo water supply.In the 1970s the government of the state of São Paulo took a much more active role in water management. As in other Brazilian states at the time, a state water supply and sanitation company was established. The company, Sabesp, took over the responsibility for water supply and sanitation from most municipalities in the metropolitan area and in the rest of the state. At the same time, a State Environmental Agency CETESB was created, being one of the first such agencies in Latin America. Among the first environmental measures was the state headwater protection law, which prohibited high-density residential occupation in 53% of Greater São Paulo. Also, the first wastewater collection and treatment systems were built. However, the measures proved to be ineffective. Slums spread on the shores of the Guarapiranga and Billings reservoirs, and the reservoirs were severely polluted. In 1986 the first slum upgrading program by the city of São Paulo began, all while more slums sprang up at the fringes of the metropolitan area.
 
 Maynilad has begun to diversify its water sources by tapping into Laguna Lake, a large but polluted lake to the East of Manila. In February 2011, the President of the Philippines, Benigno Aquino, inaugurated the 0.1 million cubic meter per day multi-stage treatment plant, the first drinking water treatment plant to draw water from the lake. The plant will supply 1.2 million residents in the South of the metropolitan area. Manila Water also plans to tap into the lake to complement the water supply of the quickly growing Rizal area to the North. This is presented as a measure to adapt to climate change, since it will reduce the dependence on the Angat River which is vulnerable to drought. At the same time, together with NGOs Manila Water has planted trees covering more than 300 hectares of land in the Ipo and Marikina watersheds to protect its main current water source.
-<br>
+
+
 What You Can Do
 -------
 
